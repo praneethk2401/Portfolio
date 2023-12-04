@@ -1,15 +1,16 @@
 export const Bio = {
     name: 'Praneeth Kulkarni',
-    interset: [
-        "Full Stack Development",
+    roles: [
+        "Full Stack Developer",
         "Programmer",
-        "Web Development",
+        "Aspiring Web Developer",
     ],
     description: 
     "I am a motivated and versatalie individual, always ready and eager to leran new things and take on new challenges. With a passion for learning I am dedicated to deleviring a high quality results. I believe in having positive attitude and growth mindset. I am ready to make a meaningful contribution and achieve great things in this path.",
     github: "https://github.com/praneethk2401",
     linkedin: "https://www.linkedin.com/in/Praneeth-Kulkarni/",
     twitter: "https://twitter.com/PraneethKu2401?t=_0V8ybd7--i61EK0fGVSoQ&s=09",
+    email:"mailto:praneeth.u.k@gmail.com",
     resume: "https://drive.google.com/file/d/11Rg3LKwIuPiROz8kmFRxV71H9N-UH71f/view?usp=sharing",
 
 };
