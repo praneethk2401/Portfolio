@@ -144,7 +144,7 @@ export const skills = [
 export const education = [
   {
     id: 0,
-    img: "",
+    img: "data:image/jpeg;base64,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",
     school: "M S Ramaiah University of Applied Sciences, Bengaluru",
     date: "Aug 2019 - Jun 2023",
     grade: "8.55 CGPA",
@@ -153,7 +153,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UZZoiud46H-AldBWSI7LXBjs1gyWdsExSMyge0Nc4Q&s",
     school: "Smt. Vidya P Hanchinamane Independent Science PU College, Dharwad",
     date: "Aug 2017 - Mar 2019",
     grade: "87.67 %",
@@ -162,7 +162,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "",
+    img: "https://www.edustoke.com/assets/uploads-new/dav-public-school-1495444810-1.jpg",
     school: "D.A.V PUBLIC SCHOOL ACC WADI(Jn), Wadi(Jn) Karnataka",
     date: "Apr 2016 - Mar 2017",
     grade: "9.6 CGPA",
@@ -177,7 +177,7 @@ export const projects = [
     title: "Drowsiness Detectiion and Alert System",
     date: "Jan 2023 - Jun 2023",
     description: "This application detects drowsiness while driving so to reduce risk of accidents caused by it. This application is built using Flask framework with the support of Python Libraries for the backend and the frontend part is built using HTML, CSS and JavaScript for the usser to interact with the system",
-    image: "https://private-user-images.githubusercontent.com/69918295/286631351-282d5b04-6436-4e97-a3ec-292f33ce6509.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNzA0MjgsIm5iZiI6MTcwMTI3MDEyOCwicGF0aCI6Ii82OTkxODI5NS8yODY2MzEzNTEtMjgyZDViMDQtNjQzNi00ZTk3LWEzZWMtMjkyZjMzY2U2NTA5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI5VDE1MDIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MmZhYzNlMzUxNTY0ZWQwYjA4ZjAxODU1ZTk2MDU1N2Q5NjlhOTRmMWM0ODVjYzkzMTZmZWYwZTQwMDc5OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8jJ3XXGuVJT7tPYQP6SGAHbLZu7jRtTWDLVII1h5WOk",
+    image: "https://private-user-images.githubusercontent.com/69918295/288740991-0f1e85aa-e7c2-448f-9428-10c69c60d8e3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDg2MDMsIm5iZiI6MTcwMTk0ODMwMywicGF0aCI6Ii82OTkxODI5NS8yODg3NDA5OTEtMGYxZTg1YWEtZTdjMi00NDhmLTk0MjgtMTBjNjljNjBkOGUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMjUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NzgyZTE2ZGUxOGI1ZDk1NzFlOTNiNGE3NTI0MWU0Nzc3N2RjYTJkNTcwYjk2M2VmZjFiZjQzMjlmNTc3YzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mDmOjo7W4UVQGn58c5KzYFTZseZx1MBydV7BTvg2A-A",
     tags: [
       "Python",
       "Flask",
@@ -191,14 +191,14 @@ export const projects = [
     ], 
     category: "System app",
     github: "https://github.com/praneethk2401/Drowsiness-detection",
-    webapp: "",
+    webapp: "https://github.com/praneethk2401/Drowsiness-detection",
   },
   {
     id: 1,
     title: "Event Management System",
     date: "Sept 2022 - Dec 2022",
     description: "The Event Management System allows the users to create, manage and attend events. This system has venues listed in the system and the users are able to book a venue for the events listed by the system admin.",
-    image: "https://private-user-images.githubusercontent.com/69918295/286642371-b7361199-0402-4d8f-a319-6d8bd31a0ff9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNzExOTQsIm5iZiI6MTcwMTI3MDg5NCwicGF0aCI6Ii82OTkxODI5NS8yODY2NDIzNzEtYjczNjExOTktMDQwMi00ZDhmLWEzMTktNmQ4YmQzMWEwZmY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI5VDE1MTQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyNzRhZjA5NDY1OGU2NmJiM2Q4MTE1MDc0NjJmMmRmN2Y0MzUyNDRlNzhmMGFmMTRkMzJmNjQxOWI2ZWU1ZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EZfP8jZutUQtZonT6oLZmljorEbO9ek692oHshAPVls",
+    image: "https://private-user-images.githubusercontent.com/69918295/286642371-b7361199-0402-4d8f-a319-6d8bd31a0ff9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDg3NDgsIm5iZiI6MTcwMTk0ODQ0OCwicGF0aCI6Ii82OTkxODI5NS8yODY2NDIzNzEtYjczNjExOTktMDQwMi00ZDhmLWEzMTktNmQ4YmQzMWEwZmY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMjcyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxOTlmNjA1MjgyMTJiZmYzMDAxYjZhYTE5MmYyOTJjMDMzMzJjMGI3ZDZiNWYwMzlmZWNiNzI1NzI1MjJhZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FmBVVeZ4zB_Gripj4YoFHyJIEuOVu-b9otiZy0dv9-4",
     tags: [
       "HTML",
       "CSS",
@@ -210,14 +210,14 @@ export const projects = [
     ],
     category: "Web app",
     github: "https://github.com/praneethk2401/Event-management-system/blob/main/README.md",
-    webapp: "",
+    webapp: "https://github.com/praneethk2401/Event-management-system/blob/main/README.md",
   }, 
   {
     id: 2,
     title: "Twitter Sentiment Analysis",
     date: "Apr 2023",
     description: "This application analyses the sentiment of the tweets posted by the user. The user can enter the twitter handle of the user and the system will analyse the tweets posted by the user and display the sentiment of the tweets.",
-    image: "",
+    image: "https://private-user-images.githubusercontent.com/69918295/288742318-024a0d78-704d-436d-a622-e7eac8d55fe0.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDg4ODQsIm5iZiI6MTcwMTk0ODU4NCwicGF0aCI6Ii82OTkxODI5NS8yODg3NDIzMTgtMDI0YTBkNzgtNzA0ZC00MzZkLWE2MjItZTdlYWM4ZDU1ZmUwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMjk0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MDE1NjQwY2YzMDhjNWYwNGFlMTkwZWJjYzE4YmVmNzAzYWIwMjhlMTFhMTQzNThlZWM4YTg5MmQ1NGQ3YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RdGf81yjk8mIvO5sSPpWFYSwCW9i_VWaW277ubcE6jk",
     tags: [
       "Python",
       "Snscrape",
@@ -227,14 +227,14 @@ export const projects = [
     ],
     category: "Command line app",
     github: "https://github.com/praneethk2401/Twitter-Sentiment-Analysis",
-    webapp: "",
+    webapp: "https://github.com/praneethk2401/Twitter-Sentiment-Analysis",
   }, 
   {
     id: 3,
     title: "Node REST API for Social Media Application",
     date: "Sept 2023",
     description: "This REST API is built to do the basic functionalities of a social media application, where a user can register or login themselves, create or delete a post, follow and unfollow others, like and dislike the post and search for others posts.",
-    image: "",
+    image: "https://private-user-images.githubusercontent.com/69918295/288744043-6a6238e9-6779-44ac-8d66-dd4da5fcd168.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDkzMDksIm5iZiI6MTcwMTk0OTAwOSwicGF0aCI6Ii82OTkxODI5NS8yODg3NDQwNDMtNmE2MjM4ZTktNjc3OS00NGFjLThkNjYtZGQ0ZGE1ZmNkMTY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMzY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmZDhmYmE4NDEzYTE2MzExMjhhZDk3N2U5YjQ1NzMzODZkMDAyODM0OGY4MGU0ODM4ZGMwNjI0NGZjNjJkNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.S0SaG1y9VnQuHhhYruBVvMgHa00sfJ8NyvdDon1Nb8w",
     tags: [
       "Node.js",
       "Express.js",
@@ -247,14 +247,14 @@ export const projects = [
     ],
     category: "REST API",
     github: "https://github.com/praneethk2401/Node-rest-api",
-    webapp:"",
+    webapp:"https://documenter.getpostman.com/view/26350092/2s9YC1XEmN",
   },
   {
     id: 4,
     title: "Drumkit",
     date: "Feb 2023",
-    description: "",
-    image: "",
+    description: "This is a simple web application that allows users to play a virtual drum kit. The project is built using HTML, CSS, and JavaScript.",
+    image: "https://private-user-images.githubusercontent.com/69918295/288744581-3aa65560-f74c-483a-b252-e4184948eb9a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDk0MzEsIm5iZiI6MTcwMTk0OTEzMSwicGF0aCI6Ii82OTkxODI5NS8yODg3NDQ1ODEtM2FhNjU1NjAtZjc0Yy00ODNhLWIyNTItZTQxODQ5NDhlYjlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMzg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MjU1OTNjMmMwMDlmYzY4YjE2YWJhMjRhZWMwMTFjMjE3NmM0OGQ4MGEzZjY3NTgwODI5MTZlNWJiNDZmOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Lz4nmKDuMPoXnFcQrTL_UqO4KsgJ4wjFsuDzsrR7Dnc",
     tags: [
       "HTML",
       "CSS",
@@ -269,7 +269,7 @@ export const projects = [
     title: "QR Code Generator",
     date: "Jul 2023",
     description: "A simple mini project to generate QR codes for URLs given. This geneartes a '.png' image for the given URLs and stores it into a folder and also all the URLs are stored in a .txt file.",
-    image: "",
+    image: "https://private-user-images.githubusercontent.com/69918295/288745040-769ab497-8e45-4b5b-a451-e2bbb993ff31.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDk1NDEsIm5iZiI6MTcwMTk0OTI0MSwicGF0aCI6Ii82OTkxODI5NS8yODg3NDUwNDAtNzY5YWI0OTctOGU0NS00YjViLWE0NTEtZTJiYmI5OTNmZjMxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExNDA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkYjNiMjRhNmUyNTRjYmQ5NjI2NjdjZWQzZDA0ZjNhYzdlYjc0OTViMGE3MzEyYWI1ZmMzMzNjZmQ0Yzg4MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ejin0M6om6WC-a3P6piMs5w9xTL-UhOHtFTZtplM-iI",
     tags: [
       "Node.js",
       "JavaScript",
@@ -277,6 +277,6 @@ export const projects = [
     ],
     category: "Command Line app",
     github: "https://github.com/praneethk2401/QR-Code-Project",
-    webapp: "",
+    webapp: "https://github.com/praneethk2401/QR-Code-Project",
   }
-]
+];
