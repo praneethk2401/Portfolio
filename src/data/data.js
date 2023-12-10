@@ -177,7 +177,7 @@ export const projects = [
     title: "Drowsiness Detectiion and Alert System",
     date: "Jan 2023 - Jun 2023",
     description: "This application detects drowsiness while driving so to reduce risk of accidents caused by it. This application is built using Flask framework with the support of Python Libraries for the backend and the frontend part is built using HTML, CSS and JavaScript for the usser to interact with the system",
-    image: "https://private-user-images.githubusercontent.com/69918295/288740991-0f1e85aa-e7c2-448f-9428-10c69c60d8e3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDg2MDMsIm5iZiI6MTcwMTk0ODMwMywicGF0aCI6Ii82OTkxODI5NS8yODg3NDA5OTEtMGYxZTg1YWEtZTdjMi00NDhmLTk0MjgtMTBjNjljNjBkOGUzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMjUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NzgyZTE2ZGUxOGI1ZDk1NzFlOTNiNGE3NTI0MWU0Nzc3N2RjYTJkNTcwYjk2M2VmZjFiZjQzMjlmNTc3YzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mDmOjo7W4UVQGn58c5KzYFTZseZx1MBydV7BTvg2A-A",
+    image: "./website.jpg",
     tags: [
       "Python",
       "Flask",
@@ -198,7 +198,7 @@ export const projects = [
     title: "Event Management System",
     date: "Sept 2022 - Dec 2022",
     description: "The Event Management System allows the users to create, manage and attend events. This system has venues listed in the system and the users are able to book a venue for the events listed by the system admin.",
-    image: "https://private-user-images.githubusercontent.com/69918295/286642371-b7361199-0402-4d8f-a319-6d8bd31a0ff9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDg3NDgsIm5iZiI6MTcwMTk0ODQ0OCwicGF0aCI6Ii82OTkxODI5NS8yODY2NDIzNzEtYjczNjExOTktMDQwMi00ZDhmLWEzMTktNmQ4YmQzMWEwZmY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMjcyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxOTlmNjA1MjgyMTJiZmYzMDAxYjZhYTE5MmYyOTJjMDMzMzJjMGI3ZDZiNWYwMzlmZWNiNzI1NzI1MjJhZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FmBVVeZ4zB_Gripj4YoFHyJIEuOVu-b9otiZy0dv9-4",
+    image: "./main homepage ss.jpg",
     tags: [
       "HTML",
       "CSS",
@@ -217,7 +217,7 @@ export const projects = [
     title: "Twitter Sentiment Analysis",
     date: "Apr 2023",
     description: "This application analyses the sentiment of the tweets posted by the user. The user can enter the twitter handle of the user and the system will analyse the tweets posted by the user and display the sentiment of the tweets.",
-    image: "https://private-user-images.githubusercontent.com/69918295/288742318-024a0d78-704d-436d-a622-e7eac8d55fe0.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDg4ODQsIm5iZiI6MTcwMTk0ODU4NCwicGF0aCI6Ii82OTkxODI5NS8yODg3NDIzMTgtMDI0YTBkNzgtNzA0ZC00MzZkLWE2MjItZTdlYWM4ZDU1ZmUwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMjk0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MDE1NjQwY2YzMDhjNWYwNGFlMTkwZWJjYzE4YmVmNzAzYWIwMjhlMTFhMTQzNThlZWM4YTg5MmQ1NGQ3YjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RdGf81yjk8mIvO5sSPpWFYSwCW9i_VWaW277ubcE6jk",
+    image: "./twitter.jpg",
     tags: [
       "Python",
       "Snscrape",
@@ -234,7 +234,7 @@ export const projects = [
     title: "Node REST API for Social Media Application",
     date: "Sept 2023",
     description: "This REST API is built to do the basic functionalities of a social media application, where a user can register or login themselves, create or delete a post, follow and unfollow others, like and dislike the post and search for others posts.",
-    image: "https://private-user-images.githubusercontent.com/69918295/288744043-6a6238e9-6779-44ac-8d66-dd4da5fcd168.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDkzMDksIm5iZiI6MTcwMTk0OTAwOSwicGF0aCI6Ii82OTkxODI5NS8yODg3NDQwNDMtNmE2MjM4ZTktNjc3OS00NGFjLThkNjYtZGQ0ZGE1ZmNkMTY4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMzY0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmZDhmYmE4NDEzYTE2MzExMjhhZDk3N2U5YjQ1NzMzODZkMDAyODM0OGY4MGU0ODM4ZGMwNjI0NGZjNjJkNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.S0SaG1y9VnQuHhhYruBVvMgHa00sfJ8NyvdDon1Nb8w",
+    image: "./REST API.png",
     tags: [
       "Node.js",
       "Express.js",
@@ -254,7 +254,7 @@ export const projects = [
     title: "Drumkit",
     date: "Feb 2023",
     description: "This is a simple web application that allows users to play a virtual drum kit. The project is built using HTML, CSS, and JavaScript.",
-    image: "https://private-user-images.githubusercontent.com/69918295/288744581-3aa65560-f74c-483a-b252-e4184948eb9a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDk0MzEsIm5iZiI6MTcwMTk0OTEzMSwicGF0aCI6Ii82OTkxODI5NS8yODg3NDQ1ODEtM2FhNjU1NjAtZjc0Yy00ODNhLWIyNTItZTQxODQ5NDhlYjlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExMzg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MjU1OTNjMmMwMDlmYzY4YjE2YWJhMjRhZWMwMTFjMjE3NmM0OGQ4MGEzZjY3NTgwODI5MTZlNWJiNDZmOTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Lz4nmKDuMPoXnFcQrTL_UqO4KsgJ4wjFsuDzsrR7Dnc",
+    image: "./drumkit.png",
     tags: [
       "HTML",
       "CSS",
@@ -269,7 +269,7 @@ export const projects = [
     title: "QR Code Generator",
     date: "Jul 2023",
     description: "A simple mini project to generate QR codes for URLs given. This geneartes a '.png' image for the given URLs and stores it into a folder and also all the URLs are stored in a .txt file.",
-    image: "https://private-user-images.githubusercontent.com/69918295/288745040-769ab497-8e45-4b5b-a451-e2bbb993ff31.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NDk1NDEsIm5iZiI6MTcwMTk0OTI0MSwicGF0aCI6Ii82OTkxODI5NS8yODg3NDUwNDAtNzY5YWI0OTctOGU0NS00YjViLWE0NTEtZTJiYmI5OTNmZjMxLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDExNDA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkYjNiMjRhNmUyNTRjYmQ5NjI2NjdjZWQzZDA0ZjNhYzdlYjc0OTViMGE3MzEyYWI1ZmMzMzNjZmQ0Yzg4MjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ejin0M6om6WC-a3P6piMs5w9xTL-UhOHtFTZtplM-iI",
+    image: "./qr code generator.jpg",
     tags: [
       "Node.js",
       "JavaScript",
