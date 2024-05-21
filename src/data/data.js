@@ -11,7 +11,7 @@ export const Bio = {
     linkedin: "https://www.linkedin.com/in/Praneeth-Kulkarni/",
     twitter: "https://twitter.com/PraneethKu2401?t=_0V8ybd7--i61EK0fGVSoQ&s=09",
     email:"mailto:praneeth.u.k@gmail.com",
-    resume: "https://drive.google.com/file/d/11Rg3LKwIuPiROz8kmFRxV71H9N-UH71f/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1d3f61gbcSi4sGE2xk8HDf2w0sa7cmlbl/view?usp=drive_link",
 
 };
 
